@@ -1,2 +1,2 @@
 # funPlay
-just play
+just play  1
